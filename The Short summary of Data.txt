@@ -1,0 +1,25 @@
+The Short summary of Data
+
+The Data set of RSVP has 6 Tables 
+1. Movie: containing fields like ID, TITLE, DATE_PUBLISHED, DURATION, COUNTRY, WORLD_WIDE_GROSS_INCOME, LANGUAGE, PRODUCTION_COMPANY
+2. GENRE: containing fields like MOVIE_ID, GENRE
+3. DIRECTOR_MAPIING: containing fields like foreign key MOVIE_ID, NAME_ID
+4. ROLE_MAPPING : MOVIE_ID, NAME_ID, CATEGORY
+5. RATINGS: MOVIE_ID, AVG_RATING, TOTAL_VOTES, MEDIAN_RATING
+6. NAME: ID, HEIGHT, DATE OF BIRTH, KNOWN_FOR_MOVIES
+
+Summary of the Analysis for RSVP Movies:
+
+The analysis conducted for RSVP Movies is well-written and employs a data-driven approach, making the recommendations credible and actionable. The key takeaways from the analysis are as follows:
+
+1. Focusing on the top three genres - drama, comedy, and thriller - is advised to attract a larger global audience and enhance box office success.
+
+2. Collaborating with renowned directors like A.L. Vijay and actresses like Laura Dern is recommended as it can improve the film's quality and attract a larger global viewership.
+
+3. German movies show higher audience engagement levels, suggesting they may be more appealing to global audiences.
+
+4. Based on the number of Super Hit movies (average rating > 8) in the drama genre, Laura Dern is identified as the top actress for RSVP Movies' specific project.
+
+5. The Archers is recognized as the leading production company for multilingual movies, given their significant number of successful productions.
+
+Overall, this analysis equips RSVP Movies with a solid foundation for planning their international film project. By implementing the provided recommendations, RSVP Movies can enhance its chances of success in the global market.
